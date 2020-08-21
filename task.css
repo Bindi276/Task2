@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+.border {
+    display:inline-block;
+    width:100%;
+    margin: 6px;
+    padding: 15px 7px 15px 7px;
+    border-color: hsl(10, 10%, 10%);
+  }
+th{
+  padding: 2px 15px 2px 15px;
+}
+textarea{
+  height: 900px;
+}
+.container-fluid{
+  padding-top: 50px;
+  padding-bottom: 70px;
+}
+
+input[type=text]{
+  width: 100%;
+}
+input[type=password]{
+  width: 100%;
+}
+strong {
+  font-size : 50px;
+}
